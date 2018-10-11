@@ -1,0 +1,11 @@
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.deps.json
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.runtimeconfig.json
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.runtimeconfig.dev.json
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.dll
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.pdb
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.csprojAssemblyReference.cache
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.csproj.CoreCompileInputs.cache
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.AssemblyInfoInputs.cache
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.AssemblyInfo.cs
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.dll
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.pdb

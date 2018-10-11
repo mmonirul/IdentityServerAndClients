@@ -1,0 +1,11 @@
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\Api\bin\Debug\netcoreapp2.0\Api.deps.json
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\Api\bin\Debug\netcoreapp2.0\Api.runtimeconfig.json
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\Api\bin\Debug\netcoreapp2.0\Api.runtimeconfig.dev.json
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\Api\bin\Debug\netcoreapp2.0\Api.dll
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\Api\obj\Debug\netcoreapp2.0\Api.csprojAssemblyReference.cache
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\Api\obj\Debug\netcoreapp2.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\Api\obj\Debug\netcoreapp2.0\Api.AssemblyInfoInputs.cache
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\Api\obj\Debug\netcoreapp2.0\Api.AssemblyInfo.cs
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\Api\bin\Debug\netcoreapp2.0\Api.pdb
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\Api\obj\Debug\netcoreapp2.0\Api.dll
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\Api\obj\Debug\netcoreapp2.0\Api.pdb

@@ -1,0 +1,12 @@
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\IdentityServerWithAspNetIdentity\bin\Debug\netcoreapp2.0\IdentityServerWithAspNetIdentity.deps.json
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\IdentityServerWithAspNetIdentity\bin\Debug\netcoreapp2.0\IdentityServerWithAspNetIdentity.runtimeconfig.json
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\IdentityServerWithAspNetIdentity\bin\Debug\netcoreapp2.0\IdentityServerWithAspNetIdentity.runtimeconfig.dev.json
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\IdentityServerWithAspNetIdentity\bin\Debug\netcoreapp2.0\IdentityServerWithAspNetIdentity.dll
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\IdentityServerWithAspNetIdentity\obj\Debug\netcoreapp2.0\IdentityServerWithAspNetIdentity.csprojAssemblyReference.cache
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\IdentityServerWithAspNetIdentity\obj\Debug\netcoreapp2.0\IdentityServerWithAspNetIdentity.csproj.CoreCompileInputs.cache
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\IdentityServerWithAspNetIdentity\obj\Debug\netcoreapp2.0\IdentityServerWithAspNetIdentity.AssemblyInfoInputs.cache
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\IdentityServerWithAspNetIdentity\obj\Debug\netcoreapp2.0\IdentityServerWithAspNetIdentity.AssemblyInfo.cs
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\IdentityServerWithAspNetIdentity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\IdentityServerWithAspNetIdentity\bin\Debug\netcoreapp2.0\IdentityServerWithAspNetIdentity.pdb
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\IdentityServerWithAspNetIdentity\obj\Debug\netcoreapp2.0\IdentityServerWithAspNetIdentity.dll
+C:\Users\Monirul Islam\Desktop\Learning\ASP.Net\NetCore2Identity4NG\IdentityServerWithAspNetIdentity\obj\Debug\netcoreapp2.0\IdentityServerWithAspNetIdentity.pdb
